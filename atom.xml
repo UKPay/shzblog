@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>老苏的blog</title>
+  
+  <subtitle>聚沙成塔，集腋成裘</subtitle>
+  <link href="https://laosu.ml/atom.xml" rel="self"/>
+  
+  <link href="https://laosu.ml/"/>
+  <updated>2022-02-21T01:14:44.042Z</updated>
+  <id>https://laosu.ml/</id>
+  
+  <author>
+    <name>杨浦老苏</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>个人网络笔记本TiddlyWiki</title>
+    <link href="https://laosu.ml/2022/02/21/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%BB%9C%E7%AC%94%E8%AE%B0%E6%9C%ACTiddlyWiki/"/>
+    <id>https://laosu.ml/2022/02/21/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%BB%9C%E7%AC%94%E8%AE%B0%E6%9C%ACTiddlyWiki/</id>
+    <published>2022-02-21T01:00:00.000Z</published>
+    <updated>2022-02-21T01:14:44.042Z</updated>
+    
+    
+    <summary type="html">TiddlyWiki 是非线性个人网络笔记本。</summary>
+    
+    
+    
+    <category term="各种折腾" scheme="https://laosu.ml/categories/%E5%90%84%E7%A7%8D%E6%8A%98%E8%85%BE/"/>
+    
+    
+    <category term="群晖" scheme="https://laosu.ml/tags/%E7%BE%A4%E6%99%96/"/>
+    
+    <category term="docker" scheme="https://laosu.ml/tags/docker/"/>
+    
+    <category term="wiki" scheme="https://laosu.ml/tags/wiki/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Prowlarr：一个新的索引聚合器</title>
+    <link href="https://laosu.ml/2022/02/18/Prowlarr%EF%BC%9A%E4%B8%80%E4%B8%AA%E6%96%B0%E7%9A%84%E7%B4%A2%E5%BC%95%E8%81%9A%E5%90%88%E5%99%A8/"/>
+    <id>https://laosu.ml/2022/02/18/Prowlarr%EF%BC%9A%E4%B8%80%E4%B8%AA%E6%96%B0%E7%9A%84%E7%B4%A2%E5%BC%95%E8%81%9A%E5%90%88%E5%99%A8/</id>
+    <published>2022-02-18T01:00:00.000Z</published>
+    <updated>2022-02-21T01:14:44.038Z</updated>
+    
+    
+    <summary type="html">Prowlarr 是索引器管理器，可与您的各种 PVR 应用程序集成。</summary>
+    
+    
+    
+    <category term="各种折腾" scheme="https://laosu.ml/categories/%E5%90%84%E7%A7%8D%E6%8A%98%E8%85%BE/"/>
+    
+    
+    <category term="群晖" scheme="https://laosu.ml/tags/%E7%BE%A4%E6%99%96/"/>
+    
+    <category term="docker" scheme="https://laosu.ml/tags/docker/"/>
+    
+    <category term="多媒体" scheme="https://laosu.ml/tags/%E5%A4%9A%E5%AA%92%E4%BD%93/"/>
+    
+    <category term="搜索" scheme="https://laosu.ml/tags/%E6%90%9C%E7%B4%A2/"/>
+    
+    <category term="BitTorrent" scheme="https://laosu.ml/tags/BitTorrent/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>多用户在线书签管理工具My-BookMark</title>
+    <link href="https://laosu.ml/2022/02/16/%E5%A4%9A%E7%94%A8%E6%88%B7%E5%9C%A8%E7%BA%BF%E4%B9%A6%E7%AD%BE%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7My-BookMark/"/>
+    <id>https://laosu.ml/2022/02/16/%E5%A4%9A%E7%94%A8%E6%88%B7%E5%9C%A8%E7%BA%BF%E4%B9%A6%E7%AD%BE%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7My-BookMark/</id>
+    <published>2022-02-16T11:00:00.000Z</published>
+    <updated>2022-02-21T01:14:44.046Z</updated>
+    
+    
+    <summary type="html">My-BookMark 是一款支持多用户的在线的书签管理工具。</summary>
+    
+    
+    
+    <category term="各种折腾" scheme="https://laosu.ml/categories/%E5%90%84%E7%A7%8D%E6%8A%98%E8%85%BE/"/>
+    
+    
+    <category term="群晖" scheme="https://laosu.ml/tags/%E7%BE%A4%E6%99%96/"/>
+    
+    <category term="docker" scheme="https://laosu.ml/tags/docker/"/>
+    
+    <category term="书签" scheme="https://laosu.ml/tags/%E4%B9%A6%E7%AD%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>多功能Web文件管理器Filestash</title>
+    <link href="https://laosu.ml/2022/02/14/%E5%A4%9A%E5%8A%9F%E8%83%BDWeb%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%99%A8Filestash/"/>
+    <id>https://laosu.ml/2022/02/14/%E5%A4%9A%E5%8A%9F%E8%83%BDWeb%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%99%A8Filestash/</id>
+    <published>2022-02-14T11:00:00.000Z</published>
+    <updated>2022-02-21T01:14:44.046Z</updated>
+    
+    
+    <summary type="html">一个类似 Dropbox 的文件管理器，让您可以在任何位置管理  WebDAV、FTP、S3、Dropbox、Google Drive 等数据。</summary>
+    
+    
+    
+    <category term="各种折腾" scheme="https://laosu.ml/categories/%E5%90%84%E7%A7%8D%E6%8A%98%E8%85%BE/"/>
+    
+    
+    <category term="群晖" scheme="https://laosu.ml/tags/%E7%BE%A4%E6%99%96/"/>
+    
+    <category term="docker" scheme="https://laosu.ml/tags/docker/"/>
+    
+    <category term="网盘" scheme="https://laosu.ml/tags/%E7%BD%91%E7%9B%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>用Dim搭建轻量级媒体服务器</title>
+    <link href="https://laosu.ml/2022/02/11/%E7%94%A8Dim%E6%90%AD%E5%BB%BA%E8%BD%BB%E9%87%8F%E7%BA%A7%E5%AA%92%E4%BD%93%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    <id>https://laosu.ml/2022/02/11/%E7%94%A8Dim%E6%90%AD%E5%BB%BA%E8%BD%BB%E9%87%8F%E7%BA%A7%E5%AA%92%E4%BD%93%E6%9C%8D%E5%8A%A1%E5%99%A8/</id>
+    <published>2022-02-11T03:30:00.000Z</published>
+    <updated>2022-02-21T01:14:44.050Z</updated>
+    
+    
+    <summary type="html">Dim 是一个简介、漂亮的自托管媒体管理器。</summary>
+    
+    
+    
+    <category term="各种折腾" scheme="https://laosu.ml/categories/%E5%90%84%E7%A7%8D%E6%8A%98%E8%85%BE/"/>
+    
+    
+    <category term="群晖" scheme="https://laosu.ml/tags/%E7%BE%A4%E6%99%96/"/>
+    
+    <category term="docker" scheme="https://laosu.ml/tags/docker/"/>
+    
+    <category term="多媒体" scheme="https://laosu.ml/tags/%E5%A4%9A%E5%AA%92%E4%BD%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>开源全文搜索引擎MeiliSearch</title>
+    <link href="https://laosu.ml/2022/02/09/%E5%BC%80%E6%BA%90%E5%85%A8%E6%96%87%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8EMeiliSearch/"/>
+    <id>https://laosu.ml/2022/02/09/%E5%BC%80%E6%BA%90%E5%85%A8%E6%96%87%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8EMeiliSearch/</id>
+    <published>2022-02-09T11:00:00.000Z</published>
+    <updated>2022-02-21T01:14:44.046Z</updated>
+    
+    
+    <summary type="html">MeiliSearch 是用 Rust 写的强大、快速、开源、易于使用和部署的搜索引擎。</summary>
+    
+    
+    
+    <category term="各种折腾" scheme="https://laosu.ml/categories/%E5%90%84%E7%A7%8D%E6%8A%98%E8%85%BE/"/>
+    
+    
+    <category term="群晖" scheme="https://laosu.ml/tags/%E7%BE%A4%E6%99%96/"/>
+    
+    <category term="docker" scheme="https://laosu.ml/tags/docker/"/>
+    
+    <category term="搜索" scheme="https://laosu.ml/tags/%E6%90%9C%E7%B4%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>跨平台的文件服务器Oasis</title>
+    <link href="https://laosu.ml/2022/02/07/%E8%B7%A8%E5%B9%B3%E5%8F%B0%E7%9A%84%E6%96%87%E4%BB%B6%E6%9C%8D%E5%8A%A1%E5%99%A8Oasis/"/>
+    <id>https://laosu.ml/2022/02/07/%E8%B7%A8%E5%B9%B3%E5%8F%B0%E7%9A%84%E6%96%87%E4%BB%B6%E6%9C%8D%E5%8A%A1%E5%99%A8Oasis/</id>
+    <published>2022-02-07T04:40:00.000Z</published>
+    <updated>2022-02-21T01:14:44.054Z</updated>
+    
+    
+    <summary type="html">Oasis 是文件服务器，支持多平台，包括 Linux, MacOS, Windows 和 Docker。</summary>
+    
+    
+    
+    <category term="各种折腾" scheme="https://laosu.ml/categories/%E5%90%84%E7%A7%8D%E6%8A%98%E8%85%BE/"/>
+    
+    
+    <category term="群晖" scheme="https://laosu.ml/tags/%E7%BE%A4%E6%99%96/"/>
+    
+    <category term="docker" scheme="https://laosu.ml/tags/docker/"/>
+    
+    <category term="网盘" scheme="https://laosu.ml/tags/%E7%BD%91%E7%9B%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>音乐流媒体应用Polaris</title>
+    <link href="https://laosu.ml/2022/02/04/%E9%9F%B3%E4%B9%90%E6%B5%81%E5%AA%92%E4%BD%93%E5%BA%94%E7%94%A8Polaris/"/>
+    <id>https://laosu.ml/2022/02/04/%E9%9F%B3%E4%B9%90%E6%B5%81%E5%AA%92%E4%BD%93%E5%BA%94%E7%94%A8Polaris/</id>
+    <published>2022-02-04T01:30:00.000Z</published>
+    <updated>2022-02-21T01:14:44.054Z</updated>
+    
+    
+    <summary type="html">Polaris 是一款音乐流媒体应用程序，旨在让您从任何计算机或移动设备欣赏您的音乐收藏。</summary>
+    
+    
+    
+    <category term="各种折腾" scheme="https://laosu.ml/categories/%E5%90%84%E7%A7%8D%E6%8A%98%E8%85%BE/"/>
+    
+    
+    <category term="群晖" scheme="https://laosu.ml/tags/%E7%BE%A4%E6%99%96/"/>
+    
+    <category term="docker" scheme="https://laosu.ml/tags/docker/"/>
+    
+    <category term="音乐" scheme="https://laosu.ml/tags/%E9%9F%B3%E4%B9%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LazyDocker：基于终端UI管理Docker</title>
+    <link href="https://laosu.ml/2022/02/02/LazyDocker%EF%BC%9A%E5%9F%BA%E4%BA%8E%E7%BB%88%E7%AB%AFUI%E7%AE%A1%E7%90%86Docker/"/>
+    <id>https://laosu.ml/2022/02/02/LazyDocker%EF%BC%9A%E5%9F%BA%E4%BA%8E%E7%BB%88%E7%AB%AFUI%E7%AE%A1%E7%90%86Docker/</id>
+    <published>2022-02-02T04:00:00.000Z</published>
+    <updated>2022-02-21T01:14:44.038Z</updated>
+    
+    
+    <summary type="html">一个简单的 docker 和 docker -compose 终端 UI。</summary>
+    
+    
+    
+    <category term="各种折腾" scheme="https://laosu.ml/categories/%E5%90%84%E7%A7%8D%E6%8A%98%E8%85%BE/"/>
+    
+    
+    <category term="群晖" scheme="https://laosu.ml/tags/%E7%BE%A4%E6%99%96/"/>
+    
+    <category term="docker" scheme="https://laosu.ml/tags/docker/"/>
+    
+    <category term="运维" scheme="https://laosu.ml/tags/%E8%BF%90%E7%BB%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>支持加密的开源笔记Joplin</title>
+    <link href="https://laosu.ml/2022/01/31/%E6%94%AF%E6%8C%81%E5%8A%A0%E5%AF%86%E7%9A%84%E5%BC%80%E6%BA%90%E7%AC%94%E8%AE%B0Joplin/"/>
+    <id>https://laosu.ml/2022/01/31/%E6%94%AF%E6%8C%81%E5%8A%A0%E5%AF%86%E7%9A%84%E5%BC%80%E6%BA%90%E7%AC%94%E8%AE%B0Joplin/</id>
+    <published>2022-01-31T11:00:00.000Z</published>
+    <updated>2022-02-21T01:14:44.050Z</updated>
+    
+    
+    <summary type="html">Joplin 是一个开源笔记和待办事项应用程序，支持 Windows、macOS、Linux、Android 和 iOS 客户端。</summary>
+    
+    
+    
+    <category term="各种折腾" scheme="https://laosu.ml/categories/%E5%90%84%E7%A7%8D%E6%8A%98%E8%85%BE/"/>
+    
+    
+    <category term="群晖" scheme="https://laosu.ml/tags/%E7%BE%A4%E6%99%96/"/>
+    
+    <category term="docker" scheme="https://laosu.ml/tags/docker/"/>
+    
+    <category term="笔记" scheme="https://laosu.ml/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>家用服务器的终极主页Dashy</title>
+    <link href="https://laosu.ml/2022/01/28/%E5%AE%B6%E7%94%A8%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E7%BB%88%E6%9E%81%E4%B8%BB%E9%A1%B5Dashy/"/>
+    <id>https://laosu.ml/2022/01/28/%E5%AE%B6%E7%94%A8%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E7%BB%88%E6%9E%81%E4%B8%BB%E9%A1%B5Dashy/</id>
+    <published>2022-01-28T02:00:00.000Z</published>
+    <updated>2022-02-21T01:14:44.046Z</updated>
+    
+    
+    <summary type="html">Dashy 是一个开源、高度可定制、易于使用、尊重隐私的仪表板应用程序。</summary>
+    
+    
+    
+    <category term="各种折腾" scheme="https://laosu.ml/categories/%E5%90%84%E7%A7%8D%E6%8A%98%E8%85%BE/"/>
+    
+    
+    <category term="群晖" scheme="https://laosu.ml/tags/%E7%BE%A4%E6%99%96/"/>
+    
+    <category term="docker" scheme="https://laosu.ml/tags/docker/"/>
+    
+    <category term="导航" scheme="https://laosu.ml/tags/%E5%AF%BC%E8%88%AA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>放假了</title>
+    <link href="https://laosu.ml/2022/01/27/%E6%94%BE%E5%81%87%E4%BA%86/"/>
+    <id>https://laosu.ml/2022/01/27/%E6%94%BE%E5%81%87%E4%BA%86/</id>
+    <published>2022-01-27T01:00:00.000Z</published>
+    <updated>2022-02-21T01:14:44.050Z</updated>
+    
+    
+    <summary type="html">放假了</summary>
+    
+    
+    
+    <category term="美好生活" scheme="https://laosu.ml/categories/%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="美好生活" scheme="https://laosu.ml/tags/%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>问题需求跟踪工具ActionView</title>
+    <link href="https://laosu.ml/2022/01/26/%E9%97%AE%E9%A2%98%E9%9C%80%E6%B1%82%E8%B7%9F%E8%B8%AA%E5%B7%A5%E5%85%B7ActionView/"/>
+    <id>https://laosu.ml/2022/01/26/%E9%97%AE%E9%A2%98%E9%9C%80%E6%B1%82%E8%B7%9F%E8%B8%AA%E5%B7%A5%E5%85%B7ActionView/</id>
+    <published>2022-01-26T01:20:00.000Z</published>
+    <updated>2022-02-21T01:14:44.054Z</updated>
+    
+    
+    <summary type="html">ActionView 是一个面向中小企业的、开源免费的、简单易用的、类 Jira 的问题需求跟踪工具。</summary>
+    
+    
+    
+    <category term="各种折腾" scheme="https://laosu.ml/categories/%E5%90%84%E7%A7%8D%E6%8A%98%E8%85%BE/"/>
+    
+    
+    <category term="群晖" scheme="https://laosu.ml/tags/%E7%BE%A4%E6%99%96/"/>
+    
+    <category term="docker" scheme="https://laosu.ml/tags/docker/"/>
+    
+    <category term="问题跟踪" scheme="https://laosu.ml/tags/%E9%97%AE%E9%A2%98%E8%B7%9F%E8%B8%AA/"/>
+    
+    <category term="需求跟踪" scheme="https://laosu.ml/tags/%E9%9C%80%E6%B1%82%E8%B7%9F%E8%B8%AA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>用GitHub Actions自动部署Hexo</title>
+    <link href="https://laosu.ml/2022/01/24/%E7%94%A8GitHub%20Actions%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2Hexo/"/>
+    <id>https://laosu.ml/2022/01/24/%E7%94%A8GitHub%20Actions%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2Hexo/</id>
+    <published>2022-01-24T01:00:00.000Z</published>
+    <updated>2022-02-21T01:14:44.050Z</updated>
+    
+    
+    <summary type="html">通过 GitHub Actions 实现自动化部署 Hexo 。</summary>
+    
+    
+    
+    <category term="各种折腾" scheme="https://laosu.ml/categories/%E5%90%84%E7%A7%8D%E6%8A%98%E8%85%BE/"/>
+    
+    
+    <category term="自动化" scheme="https://laosu.ml/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/"/>
+    
+    <category term="hexo" scheme="https://laosu.ml/tags/hexo/"/>
+    
+    <category term="博客" scheme="https://laosu.ml/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>音乐流媒体服务器Gonic</title>
+    <link href="https://laosu.ml/2022/01/21/%E9%9F%B3%E4%B9%90%E6%B5%81%E5%AA%92%E4%BD%93%E6%9C%8D%E5%8A%A1%E5%99%A8Gonic/"/>
+    <id>https://laosu.ml/2022/01/21/%E9%9F%B3%E4%B9%90%E6%B5%81%E5%AA%92%E4%BD%93%E6%9C%8D%E5%8A%A1%E5%99%A8Gonic/</id>
+    <published>2022-01-21T09:30:00.000Z</published>
+    <updated>2022-02-21T01:14:44.054Z</updated>
+    
+    
+    <summary type="html">Gonic 是一款音乐流媒体服务器，兼容 subsonic server API。</summary>
+    
+    
+    
+    <category term="各种折腾" scheme="https://laosu.ml/categories/%E5%90%84%E7%A7%8D%E6%8A%98%E8%85%BE/"/>
+    
+    
+    <category term="群晖" scheme="https://laosu.ml/tags/%E7%BE%A4%E6%99%96/"/>
+    
+    <category term="docker" scheme="https://laosu.ml/tags/docker/"/>
+    
+    <category term="音乐" scheme="https://laosu.ml/tags/%E9%9F%B3%E4%B9%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Firefly III 搭建个人财务记账平台</title>
+    <link href="https://laosu.ml/2022/01/19/Firefly%20III%20%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E8%B4%A2%E5%8A%A1%E8%AE%B0%E8%B4%A6%E5%B9%B3%E5%8F%B0/"/>
+    <id>https://laosu.ml/2022/01/19/Firefly%20III%20%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E8%B4%A2%E5%8A%A1%E8%AE%B0%E8%B4%A6%E5%B9%B3%E5%8F%B0/</id>
+    <published>2022-01-19T02:30:00.000Z</published>
+    <updated>2022-02-21T01:14:44.038Z</updated>
+    
+    
+    <summary type="html">Firefly III 是一个免费开源的个人理财助手。</summary>
+    
+    
+    
+    <category term="各种折腾" scheme="https://laosu.ml/categories/%E5%90%84%E7%A7%8D%E6%8A%98%E8%85%BE/"/>
+    
+    
+    <category term="群晖" scheme="https://laosu.ml/tags/%E7%BE%A4%E6%99%96/"/>
+    
+    <category term="docker" scheme="https://laosu.ml/tags/docker/"/>
+    
+    <category term="记账" scheme="https://laosu.ml/tags/%E8%AE%B0%E8%B4%A6/"/>
+    
+    <category term="财务" scheme="https://laosu.ml/tags/%E8%B4%A2%E5%8A%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>反向代理服务器nginx-proxy-manager</title>
+    <link href="https://laosu.ml/2022/01/17/%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8A%A1%E5%99%A8nginx-proxy-manager/"/>
+    <id>https://laosu.ml/2022/01/17/%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8A%A1%E5%99%A8nginx-proxy-manager/</id>
+    <published>2022-01-17T01:30:00.000Z</published>
+    <updated>2022-02-21T01:14:44.042Z</updated>
+    
+    
+    <summary type="html">Nginx Proxy Manager 实际上就是一个带前端管理界面的 Nginx 服务器。</summary>
+    
+    
+    
+    <category term="各种折腾" scheme="https://laosu.ml/categories/%E5%90%84%E7%A7%8D%E6%8A%98%E8%85%BE/"/>
+    
+    
+    <category term="群晖" scheme="https://laosu.ml/tags/%E7%BE%A4%E6%99%96/"/>
+    
+    <category term="docker" scheme="https://laosu.ml/tags/docker/"/>
+    
+    <category term="nginx" scheme="https://laosu.ml/tags/nginx/"/>
+    
+    <category term="反向代理" scheme="https://laosu.ml/tags/%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>书签仪表板管理软件DashMachine</title>
+    <link href="https://laosu.ml/2022/01/14/%E4%B9%A6%E7%AD%BE%E4%BB%AA%E8%A1%A8%E6%9D%BF%E7%AE%A1%E7%90%86%E8%BD%AF%E4%BB%B6DashMachine/"/>
+    <id>https://laosu.ml/2022/01/14/%E4%B9%A6%E7%AD%BE%E4%BB%AA%E8%A1%A8%E6%9D%BF%E7%AE%A1%E7%90%86%E8%BD%AF%E4%BB%B6DashMachine/</id>
+    <published>2022-01-14T11:00:00.000Z</published>
+    <updated>2022-02-21T01:14:44.042Z</updated>
+    
+    
+    <summary type="html">DashMachine 是另一个具有有趣功能的 Web 书签仪表板应用程序。</summary>
+    
+    
+    
+    <category term="各种折腾" scheme="https://laosu.ml/categories/%E5%90%84%E7%A7%8D%E6%8A%98%E8%85%BE/"/>
+    
+    
+    <category term="群晖" scheme="https://laosu.ml/tags/%E7%BE%A4%E6%99%96/"/>
+    
+    <category term="docker" scheme="https://laosu.ml/tags/docker/"/>
+    
+    <category term="导航" scheme="https://laosu.ml/tags/%E5%AF%BC%E8%88%AA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>用CMS平台Grav搭建博客</title>
+    <link href="https://laosu.ml/2022/01/12/%E7%94%A8CMS%E5%B9%B3%E5%8F%B0Grav%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://laosu.ml/2022/01/12/%E7%94%A8CMS%E5%B9%B3%E5%8F%B0Grav%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</id>
+    <published>2022-01-12T04:30:00.000Z</published>
+    <updated>2022-02-21T01:14:44.050Z</updated>
+    
+    
+    <summary type="html">Grav 是一个快速简单灵活的基于文件的 Web 平台，可用来写书、博客、图床、说明书等等。</summary>
+    
+    
+    
+    <category term="各种折腾" scheme="https://laosu.ml/categories/%E5%90%84%E7%A7%8D%E6%8A%98%E8%85%BE/"/>
+    
+    
+    <category term="群晖" scheme="https://laosu.ml/tags/%E7%BE%A4%E6%99%96/"/>
+    
+    <category term="docker" scheme="https://laosu.ml/tags/docker/"/>
+    
+    <category term="Markdown" scheme="https://laosu.ml/tags/Markdown/"/>
+    
+    <category term="blog" scheme="https://laosu.ml/tags/blog/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>类Trello的看板软件Planka</title>
+    <link href="https://laosu.ml/2022/01/10/%E7%B1%BBTrello%E7%9A%84%E7%9C%8B%E6%9D%BF%E8%BD%AF%E4%BB%B6Planka/"/>
+    <id>https://laosu.ml/2022/01/10/%E7%B1%BBTrello%E7%9A%84%E7%9C%8B%E6%9D%BF%E8%BD%AF%E4%BB%B6Planka/</id>
+    <published>2022-01-10T11:00:00.000Z</published>
+    <updated>2022-02-21T01:14:44.050Z</updated>
+    
+    
+    <summary type="html">Planka 是用于工作组的免费开源看板。</summary>
+    
+    
+    
+    <category term="各种折腾" scheme="https://laosu.ml/categories/%E5%90%84%E7%A7%8D%E6%8A%98%E8%85%BE/"/>
+    
+    
+    <category term="群晖" scheme="https://laosu.ml/tags/%E7%BE%A4%E6%99%96/"/>
+    
+    <category term="docker" scheme="https://laosu.ml/tags/docker/"/>
+    
+    <category term="看板" scheme="https://laosu.ml/tags/%E7%9C%8B%E6%9D%BF/"/>
+    
+  </entry>
+  
+</feed>
